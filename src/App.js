@@ -6,9 +6,9 @@ function App() {
   return (
     <div className="App">
       <h1>SVGA File Preview</h1>
-      <header className="App-header">
+      <div className="App-header">
         <SvgaPreview />
-      </header>
+      </div>
     </div>
   );
 }
